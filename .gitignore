@@ -1,0 +1,5 @@
+.vscode
+venv
+players_result.json
+log.log
+__pycache__
