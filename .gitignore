@@ -1,5 +1,6 @@
 .vscode
 venv
 players_result.json
-log.log
+*.log
 __pycache__
+*.db
